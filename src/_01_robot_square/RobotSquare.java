@@ -45,7 +45,9 @@ Steve.turn(90);
 
 Steve.move(100);
 
+Steve.penUp();
 
+Steve.move(100);
 
 
     }

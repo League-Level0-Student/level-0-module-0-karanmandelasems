@@ -13,7 +13,7 @@ public class knock_knock {
 		
 		JOptionPane.showMessageDialog(null, "Cows go who?");
 		
-		JOptionPane.showMessageDialog(null, "Cows go moo, not hoo, dum dum!");
+		JOptionPane.showMessageDialog(null, "Cows go moo, not hoo, dum dum you idiot!");
 		
 	}
 }
